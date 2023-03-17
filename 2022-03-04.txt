@@ -1,0 +1,591 @@
+2022-03-04 13:34:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:34:52 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Maitê Fávaro da Cruz\Java\probe_14460457994835824967.txt
+2022-03-04 13:34:52 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Maitê Fávaro da Cruz\Java\probe_14460457994835824967.txt
+2022-03-04 13:34:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:34:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:34:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:34:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:34:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:34:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:34:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:34:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\java\src\04-strings\Strings.java
+2022-03-04 13:34:55 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\probe_11956682444357913275.txt
+2022-03-04 13:34:55 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\probe_11956682444357913275.txt
+2022-03-04 13:34:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:34:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\java\src\04-strings\Strings.java
+2022-03-04 13:34:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:34:57 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:57 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\probe_8923074562157887675.txt
+2022-03-04 13:34:57 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\probe_8923074562157887675.txt
+2022-03-04 13:34:57 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\probe_16897641533645060451.txt
+2022-03-04 13:34:57 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\probe_16897641533645060451.txt
+2022-03-04 13:34:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:34:59 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:34:59 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:35:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\.gitignore
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\misc.xml
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\modules.xml
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\runConfigurations.xml
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\workspace.xml
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\dia 04-03-2022.iml
+2022-03-04 13:35:00 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\dia 04-03-2022.iml
+2022-03-04 13:35:00 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\dia 04-03-2022.iml~
+2022-03-04 13:35:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\dia 04-03-2022.iml~
+2022-03-04 13:35:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\dia 04-03-2022.iml
+2022-03-04 13:35:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\dia 04-03-2022.iml~
+2022-03-04 13:35:00 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\modules.xml
+2022-03-04 13:35:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\modules.xml
+2022-03-04 13:35:00 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\workspace.xml
+2022-03-04 13:35:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\workspace.xml
+2022-03-04 13:35:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\workspace.xml
+2022-03-04 13:35:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:01 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\misc.xml
+2022-03-04 13:35:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\misc.xml
+2022-03-04 13:35:01 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\runConfigurations.xml
+2022-03-04 13:35:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\runConfigurations.xml
+2022-03-04 13:35:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:35:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:35:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:35:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:35:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:05 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\.gitignore
+2022-03-04 13:35:05 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\.gitignore~
+2022-03-04 13:35:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\.gitignore~
+2022-03-04 13:35:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\.gitignore
+2022-03-04 13:35:05 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\.idea\.gitignore~
+2022-03-04 13:35:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:35:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\java\src\04-strings\Strings.java
+2022-03-04 13:37:44 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:37:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:37:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java
+2022-03-04 13:37:44 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:37:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01.java
+2022-03-04 13:37:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:45 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:45 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:37:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:46 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:37:47 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:47 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.class
+2022-03-04 13:37:49 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:50 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:50 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01.java
+2022-03-04 13:37:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:51 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\aula.java~
+2022-03-04 13:37:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\aula.java~
+2022-03-04 13:37:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\aula.java
+2022-03-04 13:37:51 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\aula.java~
+2022-03-04 13:37:51 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\out\production\aula0403\aula.class
+2022-03-04 13:37:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:53 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\out\production\aula0403\aula.class
+2022-03-04 13:37:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Naiury Chaves da Silva\aula0403\out\production\aula0403\aula.class
+2022-03-04 13:37:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\02.java
+2022-03-04 13:37:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:54 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:37:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:37:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java
+2022-03-04 13:37:54 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:37:54 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.class
+2022-03-04 13:37:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.class
+2022-03-04 13:37:54 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:54 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:37:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\03.java
+2022-03-04 13:37:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:56 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:37:57 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:57 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:57 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:37:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:37:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\04.java
+2022-03-04 13:37:59 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\05.java
+2022-03-04 13:38:00 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java
+2022-03-04 13:38:00 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\06.java
+2022-03-04 13:38:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\07.java
+2022-03-04 13:38:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\Main.java
+2022-03-04 13:38:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:10 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:10 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:10 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:11 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:11 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:12 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:15 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:16 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:17 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:17 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:19 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:21 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:21 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:24 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:24 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:24 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:25 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:25 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01.java
+2022-03-04 13:38:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.class
+2022-03-04 13:38:28 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:29 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:29 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:30 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:30 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:33 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:33 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01.java
+2022-03-04 13:38:34 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:35 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01.java
+2022-03-04 13:38:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:38:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:38:38 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:38:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:38:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java
+2022-03-04 13:38:38 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:38:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:38:39 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:39 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:38:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:38:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.class
+2022-03-04 13:38:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:41 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:38:42 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:42 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.class
+2022-03-04 13:38:43 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java
+2022-03-04 13:38:43 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:43 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java
+2022-03-04 13:38:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java
+2022-03-04 13:38:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:45 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:38:45 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:38:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:38:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:49 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:50 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java
+2022-03-04 13:38:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.class
+2022-03-04 13:38:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:54 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:38:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:38:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java
+2022-03-04 13:38:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java
+2022-03-04 13:38:54 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:38:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:55 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java
+2022-03-04 13:38:55 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:38:55 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:55 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:38:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java
+2022-03-04 13:38:56 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:38:57 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:57 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:57 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:38:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:58 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:38:58 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:38:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:38:59 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:38:59 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java
+2022-03-04 13:39:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:08 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\01atv.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\a_temperatura.java
+2022-03-04 13:39:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\a_temperatura.java
+2022-03-04 13:39:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Victor Pillon\02. Projetos 2022\Totem_project\.git\FETCH_HEAD
+2022-03-04 13:39:10 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:11 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:12 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Victor Pillon\02. Projetos 2022\Totem_project\.git\FETCH_HEAD
+2022-03-04 13:39:14 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Victor Pillon\02. Projetos 2022\Totem_project\.git\objects\maintenance.lock
+2022-03-04 13:39:14 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Victor Pillon\02. Projetos 2022\Totem_project\.git\objects\maintenance.lock
+2022-03-04 13:39:15 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:15 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Victor Pillon\02. Projetos 2022\Totem_project\htdocs\methods\Modifications.php
+2022-03-04 13:39:16 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:17 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:19 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\a_temperatura.java
+2022-03-04 13:39:21 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:23 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\a_temperatura.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\a_temperatura1.java
+2022-03-04 13:39:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\a_temperatura1.java
+2022-03-04 13:39:24 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:25 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:27 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java~
+2022-03-04 13:39:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java~
+2022-03-04 13:39:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java
+2022-03-04 13:39:27 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java~
+2022-03-04 13:39:28 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:28 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:39:28 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main
+2022-03-04 13:39:29 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:29 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main
+2022-03-04 13:39:30 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:39:30 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:39:30 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:39:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:39:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:39:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:33 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:34 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:35 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\.git\FETCH_HEAD
+2022-03-04 13:39:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\02.java
+2022-03-04 13:39:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\02.java
+2022-03-04 13:39:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:39:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:39:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\.git\FETCH_HEAD
+2022-03-04 13:39:43 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\.git\objects\maintenance.lock
+2022-03-04 13:39:43 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\.git\objects\maintenance.lock
+2022-03-04 13:39:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\02.java
+2022-03-04 13:39:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:49 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:50 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:39:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:39:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:53 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\02.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\b_temperatura2.java
+2022-03-04 13:39:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\b_temperatura2.java
+2022-03-04 13:39:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:39:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:39:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:39:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:39:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:39:57 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:57 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:39:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:39:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:39:58 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:39:59 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:40:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:40:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.java
+2022-03-04 13:40:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\bin\App.class
+2022-03-04 13:40:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:06 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\03.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\c_imc.java
+2022-03-04 13:40:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\c_imc.java
+2022-03-04 13:40:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:10 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:11 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:12 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\c_imc.java
+2022-03-04 13:40:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:15 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:15 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:16 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:16 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:17 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:17 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:19 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:19 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:21 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:24 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:25 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:26 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:40:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:40:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java
+2022-03-04 13:40:26 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:40:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:27 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:27 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:40:28 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:28 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:40:29 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:29 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:29 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:30 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\04.java
+2022-03-04 13:40:33 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:33 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:34 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:34 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:35 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:35 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\04.java
+2022-03-04 13:40:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:41 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:40:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:40:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java
+2022-03-04 13:40:41 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\src\aulas04\Main.java~
+2022-03-04 13:40:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:42 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:42 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:43 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Igor Oliveira Rodrigues\desafioTime\main.py~
+2022-03-04 13:40:43 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java~
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java~
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Igor Oliveira Rodrigues\desafioTime\main.py~
+2022-03-04 13:40:43 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\src\main\Main.java~
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Igor Oliveira Rodrigues\desafioTime\main.py
+2022-03-04 13:40:43 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Igor Oliveira Rodrigues\desafioTime\main.py~
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:43 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Viktor Marinho Pereira\.idea\workspace.xml~
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Viktor Marinho Pereira\.idea\workspace.xml~
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Viktor Marinho Pereira\.idea\workspace.xml
+2022-03-04 13:40:43 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04
+2022-03-04 13:40:44 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:44 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 4ª Turma\Java\Gustavo Baltazar\src\aula04\out\production\aula04\aulas04\Main.class
+2022-03-04 13:40:44 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Viktor Marinho Pereira\.idea\workspace.xml~
+2022-03-04 13:40:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:45 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:40:45 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main
+2022-03-04 13:40:45 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\04.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\d_potencia.java
+2022-03-04 13:40:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\d_potencia.java
+2022-03-04 13:40:45 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main
+2022-03-04 13:40:46 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:40:46 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:40:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Ícaro Thiago SantAna Duarte\JAVA\JAVA 04.03 EXERCÍCIOS\out\production\JAVA 04.03 EXERCÍCIOS\main\Main.class
+2022-03-04 13:40:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:47 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:40:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:40:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java
+2022-03-04 13:40:47 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\src\Main.java~
+2022-03-04 13:40:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:48 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:40:48 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:40:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Giovanna de Freitas Santos\Exercícios - Leo\JAVA\dia 04-03-2022\out\production\dia 04-03-2022\Main.class
+2022-03-04 13:40:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:40:49 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:49 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:40:50 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:51 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.class
+2022-03-04 13:40:52 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:53 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\.idea\workspace.xml~
+2022-03-04 13:40:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\.idea\workspace.xml~
+2022-03-04 13:40:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\.idea\workspace.xml
+2022-03-04 13:40:53 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\.idea\workspace.xml~
+2022-03-04 13:40:53 - Created file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\src\atividade01.java~
+2022-03-04 13:40:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\src\atividade01.java~
+2022-03-04 13:40:53 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\src\atividade01.java
+2022-03-04 13:40:53 - Deleted file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\src\atividade01.java~
+2022-03-04 13:40:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Vitor Miura Higa\! Fundamentos de programação\Java\Aula04mar\Java04mar\src\App.class
+2022-03-04 13:40:54 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\05.java
+2022-03-04 13:40:55 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:56 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:40:56 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\out
+2022-03-04 13:40:57 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\out\production
+2022-03-04 13:40:57 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\out\production\JAVA
+2022-03-04 13:40:57 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\out\production
+2022-03-04 13:40:58 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\out\production\JAVA
+2022-03-04 13:40:58 - Created directory: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Mariana Fariano Gonçalves\Leo\JAVA\out\production\JAVA
+2022-03-04 13:41:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:00 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\05.java
+2022-03-04 13:41:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\05.java
+2022-03-04 13:41:01 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:41:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:02 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:41:03 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:04 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:04 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\05.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\e_areatriangulo.java
+2022-03-04 13:41:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\e_areatriangulo.java
+2022-03-04 13:41:05 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.java
+2022-03-04 13:41:06 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\bin\App.class
+2022-03-04 13:41:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:07 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\AULAS\Smart Automation\Smart Automation - 3ª Turma\Fundamentos de Programação\Python\Júlia Helena Monteiro\desafio.py
+2022-03-04 13:41:08 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:09 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Daniel Dante\Fundamentos de Programação\Java\aula2\projeto2\src\App.class
+2022-03-04 13:41:10 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:11 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:12 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:13 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:14 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:15 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:16 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:17 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:18 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:19 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:20 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\06.java
+2022-03-04 13:41:21 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:22 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:23 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:24 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:25 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:25 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\06.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\f_bhaskara.java
+2022-03-04 13:41:25 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\f_bhaskara.java
+2022-03-04 13:41:26 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:27 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:28 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:29 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:30 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:31 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:32 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:33 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:34 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:35 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:36 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:37 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:38 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:39 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:40 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:41 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:42 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\07.java
+2022-03-04 13:41:43 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:44 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:45 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:46 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:47 - Moved file: from S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\07.java to S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\g_calculo.java
+2022-03-04 13:41:47 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Smart Automation - 4ª Turma\Guilherme Abe\bosch-smartauto\Lógica-de-programação\ojava\c_atividades\g_calculo.java
+2022-03-04 13:41:48 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:49 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
+2022-03-04 13:41:50 - Modified file: S:/PM/ter/ets/Inter_Setor/COMPARTILHADO\APRENDIZES\Meio Oficiais\Gabriel Grite\Projetos\Watchdg\2022-03-04.txt
